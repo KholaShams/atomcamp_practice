@@ -1,0 +1,61 @@
+package_id,package_name  ,service_type,monthly_rate
+1, Basic Broadband      ,Broadband,2249.25
+2, Standard Broadband   ,Broadband,2999.25
+3, Premium Broadband    ,Broadband,3749.25
+4, Ultra High-Speed     ,Broadband,5249.25
+5, Family Bundle        ,Broadband,5999.25
+6, Student Discount      ,Broadband,1874.25
+7, Business Internet    ,Broadband,7499.25
+8, Fiber Optic Basic    ,Broadband,3749.25
+9, Fiber Optic Premium  ,Broadband,5249.25
+10, No Contract Plan      ,Broadband,2624.25
+11, Unlimited Data Plan   ,Broadband,4499.25
+12, Wireless Internet    ,Broadband,3374.25
+13, Remote Area Broadband ,Broadband,4499.25
+14, Seasonal Plan        ,Broadband,1499.25
+15, Express Package      ,Broadband,6749.25
+16, Add-On Security      ,Broadband,749.25
+17, Multi-User Discount   ,Broadband,5624.25
+18, Senior Citizen Plan   ,Broadband,1874.25
+19, Tech Support Package   ,Broadband,1124.25
+20, Green Internet Plan   ,Broadband,2999.25
+21, Trial Package        ,Broadband,1499.25
+22, Basic Mobile Plan     ,Mobile,1499.25
+23, Standard Mobile Plan  ,Mobile,2249.25
+24, Unlimited Talk & Text ,Mobile,2999.25
+25, Unlimited Data Plan    ,Mobile,3749.25
+26, Family Mobile Bundle   ,Mobile,5999.25
+27, Business Mobile Plan   ,Mobile,6749.25
+28, Student Plan          ,Mobile,1124.25
+29, Prepaid Basic         ,Mobile,1874.25
+30, Prepaid Unlimited     ,Mobile,2999.25
+31, International Plan    ,Mobile,3749.25
+32, 5G Access Plan         ,Mobile,4499.25
+33, Senior Citizen Plan    ,Mobile,1499.25
+34, Budget Mobile         ,Mobile,749.25
+35, Extra Data Package     ,Mobile,750
+36, Mobile Security Plan    ,Mobile,599.25
+37, Travel Pass           ,Mobile,2250
+38, Multi-Line Discount     ,Mobile,5249.25
+39, Roaming Package        ,Mobile,1875
+40, Unlimited Music Streaming Plan ,Mobile,974.25
+41, Basic Streaming Plan   ,Streaming,749.25
+42, Standard Streaming Plan,Streaming,1124.25
+43, Premium Streaming      ,Streaming,1499.25
+44, Family Streaming Bundle ,Streaming,1874.25
+45, Limited Ads Plan      ,Streaming,899.25
+46, Ad-Free Streaming      ,Streaming,1199.25
+47, 4K Ultra HD Streaming  ,Streaming,1724.25
+48, Movies & More         ,Streaming,1349.25
+49, Kids Streaming Plan    ,Streaming,599.25
+50, Live TV Package       ,Streaming,2249.25
+51, Sports Package        ,Streaming,1499.25
+52, International Streaming ,Streaming,1124.25
+53, Music & Video Combo    ,Streaming,1874.25
+54, Annual Subscription    ,Streaming,7499.25
+55,Sharing plan,Streaming,3449.25
+56, Add-On Channels       ,Streaming,750
+57, Documentary Package    ,Streaming,749.25
+58, Movie Night Package    ,Streaming,1125
+59, Streaming Plus Plan    ,Streaming,2999.25
+60, Supported Device Bundle ,Streaming,374.25
