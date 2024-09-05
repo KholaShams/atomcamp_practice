@@ -1,0 +1,145 @@
+Year,Country,Product ID,Category,Sub-Category,Product Name,Segment,Sales,Profit
+2020,NA,NA,NA,NA,NA,NA,NA,NA
+2020,France,OFF-AP-4746,Office Supplies,Appliances,"Hoover Toaster, Black",Consumer,299050,116290
+2020,China,FUR-BO-4855,Furniture,Bookcases,"Ikea Corner Shelving, Traditional",Consumer,246120,66420
+2020,India,OFF-ST-4097,Office Supplies,Storage,"Eldon Shelving, Wire Frame",Home Office,94980,0
+2020,Australia,TEC-CO-3679,Technology,Copiers,"Canon Copy Machine, Digital",Corporate,1649210,36620
+2020,United Kingdom,TEC-AC-5122,Technology,Accessories,"Logitech Memory Card, Erganomic",Corporate,728570,-32470
+2020,Democratic Republic of the Congo,OFF-ST-4294,Office Supplies,Storage,"Fellowes Trays, Industrial",Corporate,416660,41540
+2020,Hungary,OFF-PA-5879,Office Supplies,Paper,"SanDisk Message Books, Recycled",Corporate,85430,18950
+2020,Canada,TEC-AC-5101,Technology,Accessories,"Logitech Flash Drive, Programmable",Corporate,115240,28120
+2020,Spain,OFF-SU-4327,Office Supplies,Supplies,"Fiskars Trimmer, Serrated",Corporate,105300,8190
+2020,Nigeria,OFF-ST-4295,Office Supplies,Storage,"Fellowes Trays, Single Width",Consumer,155030,68900
+2020,Egypt,FUR-FU-3067,Furniture,Furnishings,"Advantus Stacking Tray, Erganomic",Consumer,23400,7230
+2020,Iran,OFF-BI-2898,Office Supplies,Binders,"Acco Binder, Recycled",Consumer,15510,450
+2020,Panama,OFF-BI-4829,Office Supplies,Binders,"Ibico Index Tab, Durable",Consumer,9270,4050
+2020,Mexico,FUR-BO-5959,Furniture,Bookcases,"Sauder Floating Shelf Set, Metal",Consumer,1358280,203700
+2020,Indonesia,FUR-BO-3902,Furniture,Bookcases,"Dania Library with Doors, Mobile",Consumer,2189520,372060
+2020,New Zealand,FUR-BO-5962,Furniture,Bookcases,"Sauder Floating Shelf Set, Traditional",Consumer,1362060,340410
+2020,United States,OFF-ST-4096,Office Supplies,Storage,"Eldon Shelving, Single Width",Consumer,242250,12000
+2020,Turkey,OFF-AR-3545,Office Supplies,Art,"Boston Pencil Sharpener, Water Color",Consumer,64260,32100
+2020,Germany,OFF-LA-3315,Office Supplies,Labels,"Avery Round Labels, Adjustable",Consumer,10080,1680
+2020,Nicaragua,OFF-AR-5910,Office Supplies,Art,"Sanford Highlighters, Blue",Home Office,15750,1710
+2020,Netherlands,OFF-EN-3111,Office Supplies,Envelopes,"Ames Peel and Seal, with clear poly window",Consumer,22230,5760
+2020,Italy,OFF-AR-6106,Office Supplies,Art,"Stanley Canvas, Easy-Erase",Consumer,99480,23820
+2020,Pakistan,OFF-LA-6042,Office Supplies,Labels,"Smead Legal Exhibit Labels, 5000 Label Set",Consumer,45960,8640
+2020,Guatemala,FUR-CH-5753,Furniture,Chairs,"SAFCO Bag Chairs, Set of Two",Corporate,15510,-19650
+2020,Switzerland,TEC-PH-3132,Technology,Phones,"Apple Headset, Cordless",Consumer,76110,15960
+2020,Dominican Republic,OFF-BI-4807,Office Supplies,Binders,"Ibico Binder Covers, Clear",Consumer,52440,3600
+2020,Tanzania,FUR-BO-3639,Furniture,Bookcases,"Bush Library with Doors, Metal",Consumer,1637010,-36390
+2020,Thailand,OFF-PA-5876,Office Supplies,Paper,"SanDisk Message Books, 8.5 x 11",Consumer,111840,54720
+2020,Argentina,OFF-BI-4813,Office Supplies,Binders,"Ibico Binder, Economy",Consumer,46440,12960
+2020,Japan,TEC-PH-5264,Technology,Phones,"Motorola Signal Booster, Full Size",Corporate,2021880,323400
+2020,Poland,OFF-SU-4128,Office Supplies,Supplies,"Elite Scissors, High Speed",Corporate,45060,21600
+2020,Azerbaijan,TEC-PH-5360,Technology,Phones,"Nokia Speaker Phone, with Caller ID",Consumer,369450,84960
+2020,Peru,TEC-PH-3133,Technology,Phones,"Apple Headset, Full Size",Consumer,149100,58140
+2020,Saudi Arabia,FUR-BO-5952,Furniture,Bookcases,"Sauder Corner Shelving, Metal",Consumer,234820,-82220
+2020,Kyrgyzstan,OFF-AR-6127,Office Supplies,Art,"Stanley Sketch Pad, Fluorescent",Corporate,137070,21870
+2020,South Africa,OFF-PA-6607,Office Supplies,Paper,"Xerox Computer Printout Paper, Premium",Consumer,21070,-4570
+2020,Romania,TEC-CO-3597,Technology,Copiers,"Brother Fax Machine, High-Speed",Home Office,1053690,441290
+2020,El Salvador,TEC-PH-5813,Technology,Phones,"Samsung Audio Dock, Full Size",Home Office,976780,247030
+2020,Cameroon,TEC-PH-5827,Technology,Phones,"Samsung Headset, with Caller ID",Consumer,292800,20400
+2020,Lebanon,FUR-FU-3943,Furniture,Furnishings,"Deflect-O Frame, Erganomic",Consumer,217320,36900
+2020,Philippines,OFF-EN-4449,Office Supplies,Envelopes,"GlobeWeis Manila Envelope, Set of 50",Corporate,164340,54180
+2020,Brazil,OFF-AR-6117,Office Supplies,Art,"Stanley Markers, Water Color",Home Office,67680,17520
+2020,Somalia,OFF-BI-3721,Office Supplies,Binders,"Cardinal Binder, Durable",Consumer,30660,8880
+2020,Myanmar (Burma),TEC-AC-4172,Technology,Accessories,"Enermax Mouse, Erganomic",Consumer,76200,25860
+2020,Cuba,OFF-BI-2917,Office Supplies,Binders,"Acco Index Tab, Clear",Consumer,32160,11520
+2020,Syria,OFF-BI-2896,Office Supplies,Binders,"Acco Binder, Durable",Home Office,22200,11080
+2020,Iraq,TEC-PH-4381,Technology,Phones,GE 30522EE2,Corporate,231980,67270
+2020,Georgia,FUR-BO-3652,Furniture,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",Corporate,173940,38270
+2020,Lithuania,OFF-BI-2891,Office Supplies,Binders,"Acco Binder Covers, Clear",Home Office,5110,-2180
+2020,Venezuela,FUR-BO-5961,Furniture,Bookcases,"Sauder Floating Shelf Set, Pine",Consumer,1567440,360480
+2020,Russia,OFF-AP-4742,Office Supplies,Appliances,"Hoover Stove, Black",Consumer,1533330,-34110
+2020,Cote d'Ivoire,OFF-ST-6060,Office Supplies,Storage,"Smead Shelving, Wire Frame",Consumer,129600,51840
+2020,Austria,OFF-ST-4260,Office Supplies,Storage,"Fellowes File Cart, Wire Frame",Consumer,136380,28620
+2020,Denmark,OFF-AP-3874,Office Supplies,Appliances,"Cuisinart Stove, Silver",Corporate,970270,215590
+2020,Sweden,OFF-PA-4483,Office Supplies,Paper,"Green Bar Parchment Paper, Premium",Consumer,83400,2400
+2020,Jordan,OFF-LA-3312,Office Supplies,Labels,"Avery Removable Labels, Alphabetical",Consumer,31680,5940
+2020,Ireland,OFF-ST-5671,Office Supplies,Storage,Recycled Steel Personal File for Hanging File Folders,Consumer,114460,28620
+2020,Morocco,OFF-FA-6205,Office Supplies,Fasteners,"Stockwell Thumb Tacks, 12 Pack",Home Office,37710,11610
+2020,Afghanistan,TEC-CO-4578,Technology,Copiers,"Hewlett Fax Machine, Laser",Home Office,319920,15990
+2020,Libya,TEC-MA-5502,Technology,Machines,"Okidata Inkjet, White",Home Office,311250,40440
+2020,Zambia,OFF-PA-4478,Office Supplies,Paper,"Green Bar Note Cards, 8.5 x 11",Home Office,178200,74700
+2020,Estonia,OFF-BI-3253,Office Supplies,Binders,"Avery Binder, Economy",Home Office,12900,5010
+2020,Ghana,TEC-PH-3793,Technology,Phones,"Cisco Headset, with Caller ID",Corporate,176880,70740
+2020,Bangladesh,OFF-LA-4678,Office Supplies,Labels,"Hon Removable Labels, 5000 Label Set",Consumer,47880,6580
+2020,Vietnam,OFF-ST-4063,Office Supplies,Storage,"Eldon Folders, Wire Frame",Consumer,8030,-6440
+2020,Belgium,OFF-BI-3734,Office Supplies,Binders,"Cardinal Hole Reinforcements, Durable",Corporate,27360,5640
+2020,South Korea,FUR-TA-4675,Furniture,Tables,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",Corporate,1592850,350430
+2020,Croatia,OFF-BI-6209,Office Supplies,Binders,Storex Dura Pro Binders,Corporate,11880,5350
+2020,Bulgaria,TEC-PH-3163,Technology,Phones,AT&T 17929 Lendline Telephone,Corporate,180960,13570
+2020,Ukraine,TEC-AC-6351,Technology,Accessories,WD My Passport Ultra 1TB Portable External Hard Drive,Corporate,165600,-6210
+2020,Zimbabwe,TEC-AC-4876,Technology,Accessories,Imation Clip USB flash drive - 8 GB,Corporate,30080,-5260
+2020,Colombia,OFF-ST-4257,Office Supplies,Storage,"Fellowes File Cart, Blue",Consumer,617900,205850
+2020,Algeria,TEC-PH-5814,Technology,Phones,"Samsung Audio Dock, VoIP",Consumer,333840,86760
+2020,Chile,FUR-CH-4519,Furniture,Chairs,"Harbour Creations Bag Chairs, Black",Consumer,372900,-4260
+2020,Rwanda,OFF-LA-4541,Office Supplies,Labels,"Harbour Creations Removable Labels, 5000 Label Set",Consumer,72450,26040
+2020,Senegal,OFF-LA-5405,Office Supplies,Labels,"Novimex Shipping Labels, Laser Printer Compatible",Consumer,43920,19320
+2020,Singapore,OFF-AR-5933,Office Supplies,Art,"Sanford Sketch Pad, Water Color",Consumer,48660,22860
+2020,Hong Kong,FUR-CH-5408,Furniture,Chairs,"Novimex Steel Folding Chair, Red",Home Office,306990,-76750
+2020,Finland,OFF-PA-6603,Office Supplies,Paper,"Xerox Cards & Envelopes, Recycled",Home Office,59840,27520
+2020,The Gambia,OFF-AP-4950,Office Supplies,Appliances,"KitchenAid Blender, Silver",Home Office,131800,35560
+2020,Kenya,OFF-AP-3577,Office Supplies,Appliances,"Breville Refrigerator, White",Home Office,2069880,413880
+2020,Chad,OFF-AR-5904,Office Supplies,Art,"Sanford Canvas, Fluorescent",Corporate,258900,95700
+2020,Kazakhstan,FUR-FU-6254,Furniture,Furnishings,"Tenex Frame, Duo Pack",Home Office,220080,17580
+2020,Honduras,FUR-CH-4682,Furniture,Chairs,"Hon Rocking Chair, Black",Home Office,205100,-112900
+2020,Sudan,TEC-AC-3398,Technology,Accessories,"Belkin Numeric Keypad, USB",Home Office,277800,41550
+2020,Portugal,OFF-ST-6283,Office Supplies,Storage,"Tenex Trays, Single Width",Home Office,97630,-3260
+2020,Mozambique,OFF-SU-4119,Office Supplies,Supplies,"Elite Box Cutter, Steel",Corporate,92580,-8310
+2020,Barbados,OFF-ST-4063,Office Supplies,Storage,"Eldon Folders, Wire Frame",Corporate,14450,-10
+2020,Tunisia,OFF-LA-4680,Office Supplies,Labels,"Hon Removable Labels, Laser Printer Compatible",Consumer,10080,-6480
+2020,Guadeloupe,OFF-FA-6184,Office Supplies,Fasteners,"Stockwell Clamps, 12 Pack",Consumer,18660,-780
+2020,Moldova,TEC-CO-5990,Technology,Copiers,"Sharp Copy Machine, Color",Corporate,1926720,308160
+2020,Cambodia,FUR-CH-4531,Furniture,Chairs,"Harbour Creations Executive Leather Armchair, Black",Consumer,2841660,710280
+2020,Uganda,OFF-ST-5700,Office Supplies,Storage,"Rogers Lockers, Blue",Consumer,1523660,-50980
+2020,Malaysia,OFF-BI-3245,Office Supplies,Binders,Avery Arch Ring Binders,Corporate,104580,-80180
+2020,Israel,OFF-AR-5289,Office Supplies,Art,Newell 312,Corporate,4670,580
+2020,Mongolia,FUR-CH-5805,Furniture,Chairs,"SAFCO Swivel Stool, Adjustable",Consumer,681720,327120
+2020,Ecuador,OFF-AP-4966,Office Supplies,Appliances,"KitchenAid Stove, Silver",Corporate,1027620,296820
+2020,Angola,OFF-AP-3572,Office Supplies,Appliances,"Breville Microwave, Silver",Consumer,161310,20150
+2020,Greece,TEC-CO-4767,Technology,Copiers,"HP Copy Machine, Laser",Consumer,323790,5830
+2020,Czech Republic,FUR-BO-3637,Furniture,Bookcases,"Bush Floating Shelf Set, Traditional",Consumer,137020,4540
+2020,Trinidad and Tobago,OFF-PA-4001,Office Supplies,Paper,"Eaton Message Books, Recycled",Corporate,102450,14250
+2020,Norway,OFF-AR-3537,Office Supplies,Art,"Boston Markers, Blue",Consumer,87900,22800
+2020,Uruguay,OFF-PA-4147,Office Supplies,Paper,"Enermax Computer Printout Paper, 8.5 x 11",Consumer,65220,16920
+2020,Armenia,OFF-FA-5482,Office Supplies,Fasteners,"OIC Staples, Bulk Pack",Consumer,30240,4800
+2020,Mali,OFF-PA-4170,Office Supplies,Paper,"Enermax Message Books, Recycled",Consumer,29880,13440
+2020,Albania,OFF-AR-5926,Office Supplies,Art,"Sanford Pens, Fluorescent",Consumer,13180,-1020
+2020,Central African Republic,OFF-LA-4538,Office Supplies,Labels,"Harbour Creations Legal Exhibit Labels, Adjustable",Corporate,17700,8100
+2020,Haiti,OFF-BI-4823,Office Supplies,Binders,"Ibico Hole Reinforcements, Clear",Consumer,8600,3600
+2020,Bolivia,FUR-FU-5733,Furniture,Furnishings,"Rubbermaid Light Bulb, Durable",Consumer,10580,2220
+2020,Costa Rica,TEC-CO-4583,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,Corporate,959970,120000
+2020,Togo,TEC-PH-5841,Technology,Phones,"Samsung Smart Phone, VoIP",Consumer,2120800,275700
+2020,Djibouti,OFF-ST-6281,Office Supplies,Storage,"Tenex Trays, Blue",Consumer,108420,9720
+2020,Turkmenistan,TEC-CO-3704,Technology,Copiers,"Canon Personal Copier, Digital",Consumer,189460,31860
+2020,Madagascar,OFF-LA-4640,Office Supplies,Labels,"Hon Color Coded Labels, Laser Printer Compatible",Consumer,25620,12780
+2020,Uzbekistan,OFF-ST-5695,Office Supplies,Storage,"Rogers Folders, Industrial",Corporate,84160,-6560
+2020,Eritrea,TEC-AC-5149,Technology,Accessories,Logitech MX Performance Wireless Mouse,Corporate,191470,40690
+2020,Papua New Guinea,TEC-PH-5095,Technology,Phones,"Logitech B530 USB Headset - headset - Full size, Binaural",Corporate,59180,5180
+2020,Guinea,OFF-AR-5316,Office Supplies,Art,Newell 337,Corporate,5250,590
+2020,Macedonia,OFF-SU-4127,Office Supplies,Supplies,"Elite Scissors, Easy Grip",Consumer,64000,-35150
+2020,Bosnia and Herzegovina,FUR-CH-5409,Furniture,Chairs,"Novimex Steel Folding Chair, Set of Two",Consumer,101380,-27080
+2020,Ethiopia,OFF-EN-4447,Office Supplies,Envelopes,"GlobeWeis Manila Envelope, Recycled",Consumer,31430,-19390
+2020,Jamaica,FUR-BO-5760,Furniture,Bookcases,"Safco Classic Bookcase, Metal",Consumer,2756940,1163880
+2020,Belarus,OFF-SU-4317,Office Supplies,Supplies,"Fiskars Scissors, Serrated",Consumer,39720,17820
+2020,Mauritania,FUR-TA-4691,Furniture,Tables,"Hon Round Table, Rectangular",Corporate,1232350,107800
+2020,Nepal,FUR-BO-5798,Furniture,Bookcases,"Safco Stackable Bookrack, Pine",Corporate,757500,151500
+2020,Sri Lanka,FUR-CH-4631,Furniture,Chairs,"Hon Chairmat, Black",Corporate,265500,45000
+2020,Paraguay,OFF-AR-5904,Office Supplies,Art,"Sanford Canvas, Fluorescent",Home Office,207120,76560
+2020,Benin,TEC-MA-6133,Technology,Machines,"StarTech Calculator, Red",Home Office,98960,13840
+2020,Niger,OFF-AR-3534,Office Supplies,Art,"Boston Highlighters, Water Color",Consumer,44100,11880
+2020,Yemen,OFF-AR-6114,Office Supplies,Art,"Stanley Markers, Blue",Consumer,44400,8880
+2020,Guyana,FUR-CH-5371,Furniture,Chairs,"Novimex Chairmat, Black",Consumer,21560,-20500
+2020,Taiwan,OFF-ST-4080,Office Supplies,Storage,"Eldon Lockers, Single Width",Consumer,1603310,142340
+2020,Bahrain,OFF-SU-4131,Office Supplies,Supplies,"Elite Shears, Easy Grip",Consumer,136160,-59140
+2020,Oman,OFF-SU-6166,Office Supplies,Supplies,"Stiletto Letter Opener, High Speed",Consumer,22220,-11140
+2020,Qatar,FUR-FU-4228,Furniture,Furnishings,"Executive Impressions 13"" Clairmont Wall Clock",Consumer,23080,-10960
+2020,United Arab Emirates,OFF-PA-6575,Office Supplies,Paper,Xerox 212,Consumer,25920,9070
+2020,Martinique,OFF-ST-5709,Office Supplies,Storage,"Rogers Trays, Blue",Consumer,246720,73920
+2020,Equatorial Guinea,OFF-AR-3449,Office Supplies,Art,"BIC Canvas, Fluorescent",Consumer,164880,57690
+2020,Guinea-Bissau,OFF-AR-5552,Office Supplies,Art,Panasonic KP-350BK Electric Pencil Sharpener with Auto Stop,Home Office,34580,10030
+2020,Western Sahara,OFF-BI-4830,Office Supplies,Binders,"Ibico Index Tab, Economy",Home Office,20820,7020
+2020,Slovenia,OFF-BI-3738,Office Supplies,Binders,"Cardinal Index Tab, Durable",Consumer,7620,3420
+2020,Namibia,FUR-TA-5059,Furniture,Tables,"Lesro Conference Table, Rectangular",Consumer,2993030,726830
+2020,Lesotho,TEC-CO-4575,Technology,Copiers,"Hewlett Fax Machine, Color",Consumer,1156900,-38660
